@@ -3,9 +3,9 @@
 <h4>Este é um projeto de uma aplicação React. Neste projeto que nada mais é do que um Questionario, podemos observar conceitos como utilizaçãode hooks, funções com lógica.
 slides simples, funções de clique e cálculo de erros e acertos.</h4>
 
-<h1><img src="./Readme/readme-img1.png" alt="React-Quiz"></h1>
-<h1><img src="./Readme/readme-img2.png" alt="React-Quiz"></h1>
-<h1><img src="./Readme/readme-img3.png" alt="React-Quiz"></h1>
+<h1><img src="./src/Readme/readme-img1.png" alt="React-Quiz"></h1>
+<h1><img src="./src/Readme/readme-img2.png" alt="React-Quiz"></h1>
+<h1><img src="./src/Readme/readme-img3.png" alt="React-Quiz"></h1>
 
 
 <h2>Confira este projeto acessando o link abaixo:</h2>
